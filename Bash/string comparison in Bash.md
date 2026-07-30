@@ -1,3 +1,5 @@
+### difference between = and ==
+
 = is used to assign values to variables.
 
 Example:  **name="Nitu"**
